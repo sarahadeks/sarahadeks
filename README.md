@@ -37,12 +37,10 @@ with data and bringing insights to help organizations
 make high impact Data-Driven decision. 
 - :evergreen_tree: I am certified as a Senior Big Data Analyst by the Data Science Council of
 America(DASCA). 
-- 🔭 I have experience in data engineering, big data, data science, data analysis and Cloud
+- 🔭 I have experience in data science, big data, business intelligence, data analysis and Cloud
 platform(Azure and GCP). 
-- 🌱 My Tech Stack is Python, SQL, Linux, Power BI, Azure Synapse, Big Query, Docker, and
-Airflow. 
-- ⚡ I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like cooking, teaching, and speaking about finance.I'm currently a Software Engineering Student at ALX Africa.
-
+- 🌱 My Tech Stack is Python, SQL, Linux, Power BI, Azure Synapse. 
+- ⚡ I’m a self-taught developer who enjoy the ongoing pursuit of knowledge and skills outside of the formal education system. I love collaborating with people from different background and experience in order to achieve organizational goals. Besides programming, I like cooking, teaching, and speaking about finance.
 <!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 -->
